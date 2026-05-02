@@ -21,4 +21,8 @@ server.crs - file from our team to sent on signing
 
 server.crt - signed certificate by our server.key personal key
 
+server_crs - not signed certificate that colleagues sent us to sign
+
 server_team.crt - signed certificate for another team
+
+##### waiting for our signed certificate
