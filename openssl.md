@@ -27,6 +27,6 @@ signed_sertificate.crt - signed certificate for another team
 
 certificate_details.txt - read txt format to check Issuer and Subject
 
-##### waiting for our signed certificate
+### Certificates namings from other team sent to us
 
 signed_certificate_for_us.txt/.crt - files from other team on signing th certificate. Issuer and Subject flips as it must be
