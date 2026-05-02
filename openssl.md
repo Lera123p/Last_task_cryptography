@@ -19,6 +19,6 @@ server.crt - created as a signed cerver.crs by personal server.key
 ### Task 4 
 server.crs - file from our team to sent on signing
 
-we got also file server.crs to sign from other team (I will rename file to `server_team.crs`) 
+server.crt - signed certificate by our server.key personal key
 
-server_team.crs and .crt - files not signed and signed to connect with other team
+server_team.crt - signed certificate for another team
